@@ -1,2 +1,4 @@
-package example.second;public class Example {
+package example.second;
+
+public class Example {
 }

@@ -1,2 +1,5 @@
-package example;public interface Herbivore {
+package example;
+
+public interface Herbivore {
+
 }

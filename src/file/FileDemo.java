@@ -1,2 +1,4 @@
-package file;public class FileDemo {
+package file;
+
+public class FileDemo {
 }
